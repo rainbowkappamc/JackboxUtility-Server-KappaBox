@@ -1,25 +1,25 @@
 {
     "news":[
         {
-            "id":"2023-02-22 19:02:14",
-            "title":"Jackbox Utility",
-            "smallDescription":"Welcome to Jackbox Utility!",
-            "content":"# This is the new version of Jackbox Utility!\n\nIn this new version, the English language is added to the application.\n\nEnjoy!",
-            "image":"news_images/jackboxutility.png"
+            "id":"2023-07-27 12:00:00",
+            "title":"KappaBox LIVE",
+            "smallDescription":"Welcome to KappaBox LIVE Modding!",
+            "content":"# Welcome to KappaBox LIVE. A Set of Jackbox Mods that RainbowKappa and others made!\n\nThese mods were made around others' communities but can be enjoyed by anyone.\n\nEnjoy!",
+            "image":"news_images/banner.png"
         },
         {
-            "id":"2023-02-22 19:02:14",
+            "id":"2023-07-27 12:00:00",
             "title":"Join our Discord server!",
             "smallDescription":"Join our Discord community server!",
-            "content":"# You need help? Wanna play some games?\n\nJoin our Discord server! You can also suggest features for the Utility.\n\n<https://discord.gg/CBTaTGx2zy>",
+            "content":"# You need help? Wanna play some games?\n\nJoin our Discord server! We also host documentation on what we used to make our mods.\n\n<https://discord.gg/qwbmsernmg>",
             "image":"news_images/discord.png"
         },
         {
-            "id":"2023-02-22 19:02:14",
-            "title":"Game codes on EU/Canada!",
-            "smallDescription":"You can now buy game codes in EU and Canada!",
-            "content":"# If you're looking to buy the Jackbox games in these locations, you're in luck!\n\nWhen buying game codes in jackboxgames.com, you now get exclusive discounts in Europe and Canada, as well as in the United States.\n\nHappy buying!",
-            "image":"news_images/banner.png"
+            "id":"2023-07-27 12:00:00",
+            "title":"Trivia Beta64 Party Mod Fully Released!",
+            "smallDescription":"The final version of the Beta64 inspired Trivia Murder Party 2 Mod is out!",
+            "content":"# Released on July 27th, 2022! The final version of Trivia Beta64 Party featured a whole new overhaul to the game's Voice Acting!",
+            "image":"news_images/triviabeta64.png"
         }
     ]
 
