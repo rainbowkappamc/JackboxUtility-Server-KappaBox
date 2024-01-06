@@ -1,37 +1,37 @@
 {
-    "id":"jackbox-en",
-    "name":"Jackbox Utility",
-    "description":"The community server for Jackbox Games in English!",
-    "image":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets/news_images/logo.png",
+    "id":"jackbox-KappaBox",
+    "name":"KappaBox LIVE Modding",
+    "description":"The community server for KappaBox LIVE Mods!",
+    "image":"https://raw.githubusercontent.com/rainbowkappamc/JackboxUtility-Server-KappaBox/main/assets/news_images/banner.png",
 
     "urls":[
         {
             "versions":["1.0.0"],
-            "api":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/api/v2/",
-            "assets":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-en/main/assets"
+            "api":"https://raw.githubusercontent.com/rainbowkappamc/JackboxUtility-Server-KappaBox/tree/main/api/v2/",
+            "assets":"https://raw.githubusercontent.com/rainbowkappamc/JackboxUtility-Server-KappaBox/tree/assets"
         }
     ],
-    "controller":"jackbox.tv",
+    "controller":"play.kappabox.live",
     "languages":["en"],
     "links": [
         {
             "icon":"globe",
-            "url":"https://www.jackboxgames.com/",
+            "url":"https://play.kappabox.live/",
             "text":"Website"
         },
         {
             "icon":"discord",
-            "url":"https://discord.com/invite/jackboxgames",
+            "url":"https://discord.com/invite/GkVhhbvq5X",
             "text":"Discord"
         },
         {
-            "icon":"twitter",
-            "url":"https://twitter.com/jackboxgames",
-            "text":"Twitter"
+            "icon":"twitch",
+            "url":"https://www.twitch.tv/rainbowkappattv",
+            "text":"Twitch"
         },
         {
             "icon":"youtube",
-            "url":"https://www.youtube.com/@Jackboxgames",
+            "url":"https://www.youtube.com/channel/UC-6KTLmvYaFOLJkCfGorj7Q",
             "text":"YouTube"
         }
      ]
